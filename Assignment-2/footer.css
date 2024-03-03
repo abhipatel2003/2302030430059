@@ -1,0 +1,129 @@
+.contact-121234567890abhipa,
+.wwap-ambassadors-program {
+  margin: 0;
+}
+.wwap-ambassadors-program-container1 {
+  width: 100%;
+}
+.wwap-ambassadors-program-container {
+  position: absolute;
+  top: 928px;
+  left: 736px;
+  font-size: var(--font-size-109xl);
+  font-family: var(--font-inder);
+  color: #000;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  width: 14976px;
+  height: 2080px;
+}
+.page-frame-child {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 3424px;
+  object-fit: cover;
+}
+.group-child,
+.group-item {
+  position: absolute;
+  top: 0;
+  border-radius: var(--br-981xl);
+}
+.group-child {
+  left: 0;
+  background-color: #d9d9d9;
+  width: 2544px;
+  height: 2123px;
+}
+.group-item {
+  height: 100%;
+  bottom: 0;
+  left: 31px;
+  max-height: 100%;
+  width: 2513px;
+  object-fit: cover;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 426px;
+  left: 4321px;
+  width: 2544px;
+  height: 2123px;
+}
+.page-frame-inner,
+.page-frame-item {
+  position: absolute;
+  top: 513px;
+  left: 7456px;
+  width: 2528px;
+  height: 2036px;
+  object-fit: cover;
+}
+.page-frame-inner {
+  top: 347px;
+  left: 10881px;
+  width: 2688px;
+  height: 2368px;
+}
+.footer-frame,
+.page-frame {
+  position: absolute;
+  top: 3168px;
+  left: 1056px;
+  width: 13569px;
+  height: 2976px;
+}
+.footer-frame {
+  top: 0;
+  left: 0;
+  background-color: #544c4c;
+  width: 17024px;
+  height: 1664px;
+}
+.accessibility1 {
+  text-decoration: underline;
+}
+.accessibility {
+  color: inherit;
+}
+.digital-accessibility1 {
+  text-decoration: underline;
+}
+.digital-accessibility {
+  color: inherit;
+}
+.copyright-2024-container1 {
+  width: 100%;
+}
+.copyright-2024-container {
+  position: absolute;
+  top: 576px;
+  left: 1984px;
+  display: flex;
+  align-items: center;
+  width: 12032px;
+  height: 896px;
+}
+.copyright-info {
+  position: absolute;
+  top: 8864px;
+  left: 0;
+  width: 17024px;
+  height: 1664px;
+  text-align: center;
+  font-size: var(--font-size-109xl);
+  color: #fff;
+  font-family: var(--font-inder);
+}
+.footer-page {
+  width: 100%;
+  height: 10528px;
+  position: relative;
+  background-color: #b8b3b3;
+  overflow: hidden;
+}

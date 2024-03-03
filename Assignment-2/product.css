@@ -1,0 +1,102 @@
+.wroldwideastronomers-programs {
+    position: absolute;
+    top: 527px;
+    left: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 5792px;
+    height: 1152px;
+  }
+  .programs-group-child,
+  .programs-group-item {
+    position: absolute;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    max-height: 100%;
+    width: 4192px;
+    object-fit: cover;
+  }
+  .programs-group-item {
+    left: 5456px;
+    width: 4576px;
+  }
+  .programs-group-inner {
+    position: absolute;
+    top: 0;
+    left: 11872px;
+    width: 4128px;
+    height: 3264px;
+    object-fit: cover;
+  }
+  .programs-group {
+    position: absolute;
+    top: 1679px;
+    left: 448px;
+    width: 16000px;
+    height: 3392px;
+  }
+  .worldwide-telescope-is {
+    margin: 0;
+  }
+  .worldwide-telescope-is-container1 {
+    width: 100%;
+  }
+  .worldwide-telescope-is-container {
+    position: absolute;
+    top: 5822px;
+    left: 2544px;
+    font-size: var(--font-size-109xl);
+    font-family: var(--font-krona-one);
+    color: #000;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    width: 10987px;
+    height: 1696px;
+  }
+  .programs-group-child1,
+  .rectangle-icon {
+    position: absolute;
+    top: 224px;
+    left: 0;
+    width: 4192px;
+    height: 3840px;
+    object-fit: cover;
+  }
+  .programs-group-child1 {
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    left: 5456px;
+    max-height: 100%;
+    width: 4752px;
+  }
+  .programs-group-child2 {
+    position: absolute;
+    top: 96px;
+    left: 11872px;
+    width: 4128px;
+    height: 3968px;
+    object-fit: cover;
+  }
+  .programs-group1 {
+    position: absolute;
+    top: 7791px;
+    left: 448px;
+    width: 16000px;
+    height: 4064px;
+  }
+  .product-page {
+    width: 100%;
+    height: 12314px;
+    position: relative;
+    background-color: #c7c2c2;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-109xl);
+    color: #4328eb;
+    font-family: var(--font-krona-one);
+  }  

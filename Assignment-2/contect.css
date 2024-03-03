@@ -1,0 +1,384 @@
+.first-frame-child {
+    height: 11277px;
+    width: 6819px;
+    position: absolute;
+    margin: 0 !important;
+    top: -589px;
+    left: -6319px;
+    z-index: 1;
+  }
+  .contact-us,
+  .email-frame-child {
+    position: relative;
+    max-width: 100%;
+  }
+  .email-frame-child {
+    width: 11200px;
+    height: 10336px;
+    background-color: var(--color-gainsboro);
+    display: none;
+  }
+  .contact-us {
+    height: 960px;
+    width: 2744px;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    z-index: 1;
+  }
+  .contact-us-text {
+    width: 4408px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+    text-align: center;
+    color: #f81919;
+  }
+  .frame-child,
+  .name {
+    position: relative;
+    max-width: 100%;
+  }
+  .frame-child {
+    height: 1069px;
+    width: 5984px;
+    border-radius: var(--br-481xl);
+    background-color: var(--color-white);
+    display: none;
+  }
+  .name {
+    height: 672px;
+    width: 4480px;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    z-index: 1;
+  }
+  .rectangle-parent,
+  .three-frames {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .rectangle-parent {
+    flex: 1;
+    border-radius: var(--br-481xl);
+    background-color: var(--color-white);
+    align-items: center;
+    padding: 192px 416px;
+    z-index: 1;
+  }
+  .three-frames {
+    width: 5984px;
+    align-items: flex-start;
+    padding: 0 0 17px;
+  }
+  .email,
+  .frame-item {
+    position: relative;
+    max-width: 100%;
+  }
+  .frame-item {
+    height: 1152px;
+    width: 5984px;
+    border-radius: var(--br-481xl);
+    background-color: var(--color-white);
+    display: none;
+  }
+  .email {
+    height: 576px;
+    width: 5056px;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    z-index: 1;
+  }
+  .rectangle-group,
+  .three-frames1 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .rectangle-group {
+    flex: 1;
+    border-radius: var(--br-481xl);
+    background-color: var(--color-white);
+    justify-content: center;
+    padding: var(--padding-224xl) 116px var(--padding-224xl) var(--padding-xl);
+    min-height: 1152px;
+    z-index: 1;
+  }
+  .three-frames1 {
+    width: 5984px;
+    justify-content: flex-start;
+    padding: 0 0 var(--padding-49xl);
+  }
+  .frame-inner,
+  .message {
+    position: relative;
+    max-width: 100%;
+  }
+  .frame-inner {
+    height: 3520px;
+    width: 5568px;
+    border-radius: 0 0 var(--br-481xl) 0;
+    background-color: var(--color-white);
+    display: none;
+  }
+  .message {
+    height: 728px;
+    width: 4896px;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    z-index: 1;
+  }
+  .rectangle-container,
+  .three-frames2 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .rectangle-container {
+    width: 5568px;
+    border-radius: 0 0 var(--br-481xl) 0;
+    background-color: var(--color-white);
+    justify-content: flex-start;
+    padding: 124px var(--padding-61xl);
+    min-height: 3520px;
+    z-index: 1;
+  }
+  .three-frames2 {
+    width: 5984px;
+    justify-content: flex-end;
+    padding: 0 0 var(--padding-49xl);
+  }
+  .rectangle-div,
+  .send {
+    position: relative;
+    max-width: 100%;
+  }
+  .rectangle-div {
+    height: 1248px;
+    width: 5024px;
+    border-radius: var(--br-481xl);
+    background-color: var(--color-khaki);
+    display: none;
+  }
+  .send {
+    height: 832px;
+    width: 3584px;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    z-index: 1;
+  }
+  .group-div,
+  .second-frame {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    max-width: 100%;
+  }
+  .group-div {
+    width: 5024px;
+    border-radius: var(--br-481xl);
+    background-color: var(--color-khaki);
+    justify-content: flex-start;
+    padding: 161px 512px;
+    box-sizing: border-box;
+    min-height: 1248px;
+    z-index: 1;
+  }
+  .second-frame {
+    width: 5440px;
+    justify-content: flex-end;
+    text-align: center;
+  }
+  .email-frame {
+    flex: 1;
+    background-color: var(--color-gainsboro);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 689px 692px 333px var(--padding-xl);
+    box-sizing: border-box;
+    gap: 303px 0;
+    max-width: 100%;
+  }
+  .contect-page,
+  .first-frame {
+    position: relative;
+    display: flex;
+  }
+  .first-frame {
+    width: 11220px;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0 0 var(--padding-xl);
+    box-sizing: border-box;
+    max-width: 100%;
+    text-align: left;
+    font-size: var(--font-size-109xl);
+    color: var(--color-black);
+    font-family: var(--font-inter);
+  }
+  .contect-page {
+    width: 100%;
+    background-color: var(--color-white);
+    overflow: hidden;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+    letter-spacing: normal;
+  }
+  @media screen and (max-width: 1200px) {
+    .rectangle-parent {
+      padding-left: var(--padding-189xl);
+      padding-right: var(--padding-189xl);
+      box-sizing: border-box;
+    }
+    .rectangle-group {
+      padding-right: 58px;
+      box-sizing: border-box;
+    }
+    .three-frames1 {
+      padding-bottom: 44px;
+      box-sizing: border-box;
+    }
+    .rectangle-container {
+      padding-left: var(--padding-21xl);
+      padding-right: var(--padding-21xl);
+      box-sizing: border-box;
+    }
+    .three-frames2 {
+      padding-bottom: var(--padding-10xl);
+      box-sizing: border-box;
+    }
+    .group-div {
+      padding: 105px 256px;
+      box-sizing: border-box;
+    }
+    .email-frame {
+      gap: 303px 0;
+      padding-top: 189px;
+      padding-right: 346px;
+      padding-bottom: 91px;
+      box-sizing: border-box;
+    }
+  }
+  @media screen and (max-width: 1050px) {
+    .contact-us,
+    .name {
+      font-size: var(--font-size-32xl);
+    }
+    .rectangle-parent {
+      padding-top: var(--padding-106xl);
+      padding-bottom: var(--padding-106xl);
+      box-sizing: border-box;
+    }
+    .email {
+      font-size: var(--font-size-32xl);
+    }
+    .rectangle-group {
+      padding-top: var(--padding-139xl);
+      padding-bottom: var(--padding-139xl);
+      box-sizing: border-box;
+    }
+    .message {
+      font-size: var(--font-size-32xl);
+    }
+    .rectangle-container {
+      padding-top: var(--padding-62xl);
+      padding-bottom: var(--padding-62xl);
+      box-sizing: border-box;
+    }
+    .three-frames2 {
+      padding-bottom: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .send {
+      font-size: var(--font-size-32xl);
+    }
+    .email-frame {
+      padding-top: 123px;
+      padding-bottom: 59px;
+      box-sizing: border-box;
+    }
+  }
+  @media screen and (max-width: 750px) {
+    .rectangle-parent {
+      padding: var(--padding-62xl) 104px;
+      box-sizing: border-box;
+    }
+    .rectangle-group {
+      padding-top: var(--padding-84xl);
+      padding-right: var(--padding-10xl);
+      padding-bottom: var(--padding-84xl);
+      box-sizing: border-box;
+    }
+    .rectangle-container,
+    .three-frames1 {
+      padding-bottom: var(--padding-10xl);
+      box-sizing: border-box;
+    }
+    .rectangle-container {
+      padding-top: var(--padding-34xl);
+      padding-bottom: var(--padding-34xl);
+    }
+    .group-div {
+      padding: var(--padding-49xl) 128px;
+      box-sizing: border-box;
+    }
+    .email-frame {
+      gap: 303px 0;
+      padding-top: var(--padding-61xl);
+      padding-right: 173px;
+      padding-bottom: 38px;
+      box-sizing: border-box;
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .contact-us,
+    .name {
+      font-size: var(--font-size-13xl);
+    }
+    .rectangle-parent {
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .email,
+    .message,
+    .send {
+      font-size: var(--font-size-13xl);
+    }
+    .email-frame,
+    .group-div {
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .group-div {
+      padding-left: var(--padding-xl);
+    }
+    .email-frame {
+      gap: 303px 0;
+    }
+  }  

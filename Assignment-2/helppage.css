@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Azeret Mono:wght@800&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Cabin:wght@400;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Alegreya:wght@400;500&display=swap"
+    />
+  </head>
+  <body>
+    <div class="help-page">
+      <div class="help">Help</div>
+      <div class="f-r-a-m-e-help-text">
+        <div class="f-r-a-m-e-f-r-a-m-e">
+          <div class="f-r-a-m-e-f-r-a-m-e-f-r-a-m-e">
+            <div class="w-w-a-p-programs-frame">
+              <div class="access-wroldwideastronomers-pr-container">
+                <span>
+                  <p class="access-wroldwideastronomers-pr">
+                    <b class="access">Access </b>
+                    <span>WroldWideAstronomers Program's .</span>
+                  </p>
+                </span>
+              </div>
+              <div class="f-r-a-m-e-ellipse">
+                <div class="run-w-w-a-p">
+                  <div class="run-w-w-a-p-child"></div>
+                  <div class="w-w-a-p-tours-frame">
+                    <div class="run-wwap">Run WWAP</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="w-w-a-p-stores-f-a-qs-frame">
+              <div class="frame-w-w-a-p-stores-f-a-qs">
+                <div class="download-w-w-a-pfor-window-wrapper">
+                  <div class="download-w-w-a-pfor-window"></div>
+                </div>
+                <div class="download-wwap-for">Download wwap for window.</div>
+              </div>
+            </div>
+          </div>
+          <div class="about-w-w-a-p-programs-frame">
+            <div class="frame-about-w-w-a-p-programs">
+              <div class="learn-about-w-w-a-p-wrapper">
+                <div class="learn-about-w-w-a-p">
+                  <div class="about-wroldwideastronomers-pro-container">
+                    <span>
+                      <p class="about-wroldwideastronomers-pro">
+                        About WroldWideAstronomers Programs.
+                      </p>
+                    </span>
+                  </div>
+                  <div class="w-w-a-p-learn-frame">
+                    <div class="w-w-a-p-tour-frame">
+                      <div class="w-w-a-p-tour-frame-inner">
+                        <div class="frame-child"></div>
+                      </div>
+                      <div class="learn-about-wwap">
+                        Learn About WWAP Tours.
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="f-a-qs-frame">
+                <div class="w-w-a-p-stores-frame">
+                  <div class="w-w-a-p-stores-f-a-qs">
+                    <div class="wwap-stores">WWAP Stores.</div>
+                  </div>
+                  <div class="tutorials-frame">
+                    <div class="tutorials-and-faqs-container">
+                      <span>
+                        <p class="tutorials-and-faqs">Tutorials and FAQs</p>
+                      </span>
+                    </div>
+                    <div class="w-w-a-p-you-tube-channel-frame">
+                      <div class="external-resources-frame">
+                        <div class="learn-how-to">Learn How To Use WWAP.</div>
+                        <div class="wwap-you-tube-channel-wrapper">
+                          <div class="wwap-you-tube">
+                            WWAP you tube channel.
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="w-w-a-p-stores-f-a-qs1">
+                    <div class="faqs">FAQS</div>
+                  </div>
+                </div>
+                <div class="m-o-o-s-e-menu-frame">
+                  <div class="astropix-beta-text">
+                    <div class="astropix-beta-text-child"></div>
+                    <div class="ellipse-cluster-parent">
+                      <div class="ellipse-cluster"></div>
+                      <div class="ellipse-cluster1"></div>
+                      <div class="ellipse-wrapper">
+                        <div class="frame-item"></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="exo-planet-hub">
+                <div class="external-resources-for-container">
+                  <span class="external-resources-for-container1">
+                    <p class="external-resources-for">
+                      External Resources for Teaching and Learning Astronomy
+                    </p>
+                  </span>
+                </div>
+                <div class="lab-for-study">
+                  <div class="m-o-o-s-e-menu">
+                    <div class="astropix-beta">
+                      <div class="vector-cluster">
+                        <img
+                          class="vector-cluster-child"
+                          loading="lazy"
+                          alt=""
+                          src="./public/ellipse-12.svg"
+                        />
+
+                        <div class="unused">
+                          <img
+                            class="unused-child"
+                            loading="lazy"
+                            alt=""
+                            src="./public/ellipse-13.svg"
+                          />
+
+                          <div class="unused1">
+                            <img
+                              class="unused-item"
+                              loading="lazy"
+                              alt=""
+                              src="./public/ellipse-14.svg"
+                            />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="resource-hub">
+                      <div class="lab-for-study1">
+                        <div class="laboratory-for-study">
+                          Laboratory For Study Of Exoplanets.
+                        </div>
+                      </div>
+                      <div class="astropix-beta1">
+                        <div class="moosemenu-of-outrage">
+                          MOOSE:Menu Of Outrage opportunities in Scince
+                          Educations.
+                        </div>
+                      </div>
+                      <div class="astropix-beta2">Astropix Beta.</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

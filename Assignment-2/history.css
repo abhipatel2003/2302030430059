@@ -1,0 +1,107 @@
+.history {
+    position: absolute;
+    top: 475px;
+    left: 1216px;
+    font-weight: 900;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 2384px;
+    height: 740px;
+  }
+  .they-also-used,
+  .wwta-began-in {
+    margin: 0;
+  }
+  .wwta-began-in-container1 {
+    width: 100%;
+  }
+  .wwta-began-in-container {
+    position: absolute;
+    top: 1083px;
+    left: 2210px;
+    font-size: var(--font-size-109xl);
+    font-family: var(--font-inder);
+    color: var(--color-black);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    width: 12517px;
+    height: 2672px;
+  }
+  .welcome-back-icon {
+    position: absolute;
+    top: 3487px;
+    left: 3072px;
+    width: 11655px;
+    height: 4336px;
+    object-fit: cover;
+  }
+  .in-2011-we,
+  .in-2012-with,
+  .in-spring-2013 {
+    margin: 0;
+  }
+  .usa-science-and {
+    text-decoration: underline;
+  }
+  .usa-science-and-engineering-fe {
+    color: inherit;
+  }
+  .cambridge-science-festival1 {
+    text-decoration: underline;
+  }
+  .cambridge-science-festival {
+    color: inherit;
+  }
+  .stellafane-telescope-makers {
+    text-decoration: underline;
+  }
+  .stellafane-telescope-makers-co {
+    color: inherit;
+  }
+  .northeast-astronomy-forum1 {
+    text-decoration: underline;
+  }
+  .northeast-astronomy-forum {
+    color: inherit;
+  }
+  .we-have-run-booths-at-the-inau {
+    margin: 0;
+  }
+  .american-astronomical-society1 {
+    text-decoration: underline;
+  }
+  .american-astronomical-society {
+    color: inherit;
+  }
+  .we-have-run-workshops-at-ameri {
+    margin: 0;
+  }
+  .in-2011-we-container1 {
+    width: 100%;
+  }
+  .history-page,
+  .in-2011-we-container {
+    text-align: center;
+    font-size: var(--font-size-109xl);
+    color: var(--color-black);
+  }
+  .in-2011-we-container {
+    position: absolute;
+    top: 7935px;
+    left: 2208px;
+    font-family: var(--font-inder);
+    display: flex;
+    align-items: center;
+    width: 13568px;
+    height: 2432px;
+  }
+  .history-page {
+    width: 100%;
+    height: 10687px;
+    position: relative;
+    background-color: #c4bdbd;
+    overflow: hidden;
+    font-family: var(--font-inknut-antiqua);
+  }  

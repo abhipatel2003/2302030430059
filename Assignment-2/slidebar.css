@@ -1,0 +1,48 @@
+.logo-1-icon,
+.logo2-1-icon,
+.slidebar-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 7250px;
+  height: 7066px;
+  object-fit: cover;
+}
+.logo2-1-icon,
+.slidebar-1-icon {
+  left: 7519px;
+  width: 5661px;
+}
+.logo2-1-icon {
+  left: 13448px;
+  width: 3781px;
+}
+.text-node {
+  position: absolute;
+  top: 7087px;
+  left: 5721px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 6838px;
+  height: 558px;
+}
+.logo-group {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 17229px;
+  text-align: center;
+  font-size: 128px;
+  color: #000;
+  font-family: var(--font-inder);
+}
+.slidebar-page {
+  width: 100%;
+  height: 7645px;
+  position: relative;
+  background-color: #a49f9f;
+  overflow: hidden;
+}

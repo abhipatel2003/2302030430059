@@ -1,0 +1,487 @@
+.frame-child {
+    align-self: stretch;
+    width: 17024px;
+    position: relative;
+    background-color: var(--color-dimgray);
+    display: none;
+    max-width: 100%;
+  }
+  .astrohub,
+  .frame-item {
+    position: relative;
+    z-index: 1;
+  }
+  .frame-item {
+    width: 1361px;
+    max-height: 100%;
+    object-fit: cover;
+    max-width: 100%;
+  }
+  .astrohub {
+    align-self: stretch;
+    height: 440px;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+  .astrohub-wrapper {
+    width: 1056px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 488px 0 0;
+    box-sizing: border-box;
+    min-width: 1056px;
+    max-width: 100%;
+  }
+  .frame-inner,
+  .rectangle-parent {
+    align-self: stretch;
+    max-width: 100%;
+  }
+  .rectangle-parent {
+    background-color: var(--color-dimgray);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0 96px;
+  }
+  .frame-inner {
+    width: 17024px;
+    position: relative;
+    background-color: var(--color-darkgray-200);
+    display: none;
+  }
+  .rectangle-div,
+  .rectangle-icon {
+    position: relative;
+    border-radius: var(--br-981xl);
+    max-width: 100%;
+  }
+  .rectangle-div {
+    align-self: stretch;
+    width: 2544px;
+    background-color: var(--color-gainsboro);
+    display: none;
+  }
+  .rectangle-icon {
+    height: 2123px;
+    flex: 1;
+    overflow: hidden;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .rectangle-container,
+  .wroldwideastronomers-programs {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 100%;
+    z-index: 1;
+  }
+  .rectangle-container {
+    width: 2544px;
+    border-radius: var(--br-981xl);
+    background-color: var(--color-gainsboro);
+    flex-direction: row;
+    padding: 0 0 0 31px;
+    box-sizing: border-box;
+  }
+  .wroldwideastronomers-programs {
+    width: 3152px;
+    height: 823px;
+    position: relative;
+    flex-shrink: 0;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  .wroldwideastronomers-programs-wrapper {
+    width: 4889px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 430px 0 0;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .frame-child1,
+  .frame-child2 {
+    border-radius: var(--br-481xl);
+    z-index: 1;
+  }
+  .frame-child1 {
+    position: absolute;
+    top: 153px;
+    left: 0;
+    background-color: var(--color-white);
+    box-shadow: 0 16px 16px 60px rgba(0, 0, 0, 0.25);
+    width: 2944px;
+    height: 573px;
+  }
+  .frame-child2 {
+    width: 848px;
+    position: relative;
+    max-height: 100%;
+    object-fit: cover;
+    max-width: 100%;
+  }
+  .donate,
+  .rectangle-parent1 {
+    display: flex;
+    align-items: center;
+  }
+  .donate {
+    align-self: stretch;
+    height: 416px;
+    position: relative;
+    font-weight: 500;
+    justify-content: center;
+    flex-shrink: 0;
+    z-index: 1;
+  }
+  .rectangle-parent1 {
+    position: absolute;
+    top: 0;
+    left: 2360px;
+    width: 2368px;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 151px 0;
+    max-width: 100%;
+  }
+  .frame-div {
+    align-self: stretch;
+    height: 1527px;
+    position: relative;
+    max-width: 100%;
+  }
+  .a-b-o-u-t-frame {
+    width: 4728px;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 361px 0 0;
+    box-sizing: border-box;
+    color: var(--color-black);
+    font-family: var(--font-kanit);
+  }
+  .a-b-o-u-t-frame,
+  .frame-wrapper,
+  .rectangle-group {
+    display: flex;
+    align-items: flex-start;
+    max-width: 100%;
+  }
+  .rectangle-group {
+    align-self: stretch;
+    background-color: var(--color-darkgray-200);
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0 1288px var(--padding-base) 2193px;
+    box-sizing: border-box;
+    gap: 20px;
+  }
+  .frame-wrapper {
+    flex: 1;
+    flex-direction: column;
+    justify-content: flex-start;
+    min-height: 3616px;
+    text-align: center;
+    font-size: var(--font-size-109xl);
+    color: #4328eb;
+    font-family: var(--font-krona-one);
+  }
+  .header-section-frame-child {
+    height: 1488px;
+    width: 17024px;
+    position: relative;
+    background-color: var(--color-darkgray-100);
+    display: none;
+    max-width: 100%;
+  }
+  .home {
+    align-self: stretch;
+    height: 536px;
+    position: relative;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    z-index: 2;
+  }
+  .home-text {
+    width: 936px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 24px 0 0;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .about {
+    align-self: stretch;
+    height: 464px;
+    position: relative;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    z-index: 2;
+  }
+  .a-b-o-u-t-e-d-u-c-a-t-i-o-n-a {
+    width: 848px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-17xl) 0 0;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .educational-materials {
+    width: 2488px;
+    height: 464px;
+    position: relative;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    max-width: 100%;
+    z-index: 2;
+  }
+  .a-b-o-u-t-e-d-u-c-a-t-i-o-n-a1 {
+    width: 2612px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-17xl) 0 0;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .world-wide-astro {
+    width: 1992px;
+    height: 484px;
+    position: relative;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    max-width: 100%;
+    z-index: 2;
+  }
+  .a-b-o-u-t-e-d-u-c-a-t-i-o-n-a2 {
+    width: 2068px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-base) 0 0;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .research {
+    height: 440px;
+    flex: 1;
+    position: relative;
+    font-weight: 800;
+    min-width: 837px;
+    z-index: 2;
+  }
+  .frame-r-e-s-e-a-r-c-h-h-e-l-p,
+  .help,
+  .research {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 100%;
+  }
+  .help {
+    height: 336px;
+    width: 1160px;
+    position: relative;
+    font-weight: 800;
+    flex-shrink: 0;
+    min-width: 1160px;
+    z-index: 3;
+    margin-left: -72px;
+  }
+  .frame-r-e-s-e-a-r-c-h-h-e-l-p {
+    align-self: stretch;
+    flex-direction: row;
+    row-gap: 20px;
+  }
+  .header-section-frame,
+  .help-tab {
+    align-items: flex-start;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .help-tab {
+    width: 2376px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 38px 0 0;
+  }
+  .header-section-frame {
+    flex: 0.5525;
+    background-color: var(--color-darkgray-100);
+    flex-direction: row;
+    padding: 476px 3809px;
+    gap: 0 52px;
+    z-index: 1;
+    margin-left: -17024px;
+    text-align: center;
+    font-size: var(--font-size-109xl);
+    color: var(--color-black);
+    font-family: var(--font-inknut-antiqua);
+  }
+  .frame-parent,
+  .header-page,
+  .header-section-frame {
+    display: flex;
+    justify-content: flex-start;
+  }
+  .frame-parent {
+    align-self: stretch;
+    flex-direction: row;
+    align-items: flex-end;
+    max-width: 100%;
+  }
+  .header-page {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-white);
+    overflow: hidden;
+    flex-direction: column;
+    align-items: flex-start;
+    letter-spacing: normal;
+    text-align: center;
+    font-size: var(--font-size-109xl);
+    color: #f81919;
+    font-family: var(--font-inknut-antiqua);
+  }
+  @media screen and (max-width: 12350px) {
+    .rectangle-group {
+      flex-wrap: wrap;
+    }
+    .help,
+    .research {
+      min-width: 100%;
+    }
+    .help {
+      flex: 1;
+    }
+    .frame-r-e-s-e-a-r-c-h-h-e-l-p,
+    .header-section-frame {
+      flex-wrap: wrap;
+    }
+  }
+  @media screen and (max-width: 8400px) {
+    .header-section-frame,
+    .rectangle-group {
+      flex-wrap: wrap;
+    }
+  }
+  @media screen and (max-width: 4425px) {
+    .frame-item {
+      flex: 1;
+    }
+    .astrohub {
+      font-size: var(--font-size-32xl);
+    }
+    .astrohub-wrapper {
+      flex: 1;
+      padding-top: 317px;
+      box-sizing: border-box;
+      min-width: 100%;
+    }
+    .rectangle-parent {
+      flex-wrap: wrap;
+      gap: 0 96px;
+    }
+    .wroldwideastronomers-programs {
+      font-size: var(--font-size-32xl);
+    }
+    .wroldwideastronomers-programs-wrapper {
+      padding-top: 181px;
+      box-sizing: border-box;
+    }
+    .donate {
+      font-size: var(--font-size-32xl);
+    }
+    .a-b-o-u-t-frame {
+      padding-top: 99px;
+      box-sizing: border-box;
+    }
+    .rectangle-group {
+      flex-wrap: wrap;
+      padding-left: 548px;
+      padding-right: 322px;
+      box-sizing: border-box;
+    }
+    .about,
+    .educational-materials,
+    .help,
+    .home,
+    .research,
+    .world-wide-astro {
+      font-size: var(--font-size-32xl);
+    }
+    .help {
+      margin-left: 0;
+    }
+    .header-section-frame {
+      flex-wrap: wrap;
+      gap: 0 52px;
+      padding-left: var(--padding-933xl);
+      padding-right: var(--padding-933xl);
+      padding-bottom: 201px;
+      box-sizing: border-box;
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .astrohub {
+      font-size: var(--font-size-13xl);
+    }
+    .astrohub-wrapper {
+      padding-top: 206px;
+      box-sizing: border-box;
+    }
+    .rectangle-parent {
+      gap: 0 96px;
+    }
+    .donate,
+    .wroldwideastronomers-programs {
+      font-size: var(--font-size-13xl);
+    }
+    .rectangle-group {
+      flex-wrap: wrap;
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .about,
+    .educational-materials,
+    .help,
+    .home,
+    .research,
+    .world-wide-astro {
+      font-size: var(--font-size-13xl);
+    }
+    .header-section-frame {
+      flex-wrap: wrap;
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+  }  
